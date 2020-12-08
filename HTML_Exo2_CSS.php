@@ -13,7 +13,7 @@ include "Menu.php";
         <link rel='stylesheet' type='text/css' href='Menu.css'>
     </head>
     <body>
-        <link rel="stylesheet" href="fichierexo2css.css">
+        <link rel="stylesheet" href="HTML_Exo2_CSS.css">
         <div class="bandeau">Bandeau</div>
         <div class="menu">Menu</div>
         <div class="contenu">Contenu</div>
